@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-30T06:08:11.369Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="1pxDtGUisa7QiBJrm8I9" version="22.1.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-30T06:08:31.748Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="zbMWE-PYP-ICb_RTXX3-" version="22.1.5" type="github" pages="2">
   <diagram name="High Level Architecture" id="HNBkpJnv1Rv3T8vgbm3T">
     <mxGraphModel dx="3566" dy="2380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -292,7 +292,7 @@
         <mxCell id="y55anTXChAuStdiiagD4-13" value="Repository" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="330.5" width="75" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="Vq4Rci6RlZ5z40YKBUCb-1" value="For Sync Communication Use Web Client" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Vq4Rci6RlZ5z40YKBUCb-1" value="&lt;b&gt;For Sync Communication Use Web Client&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="670" y="150" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Vq4Rci6RlZ5z40YKBUCb-3" value="Micro Service Two" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
