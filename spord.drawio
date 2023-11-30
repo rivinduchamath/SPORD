@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-30T04:07:35.628Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="5U5NwIKYEjSWS01oGRJn" version="22.1.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-30T04:07:49.235Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="leW-wwfR_AFLXPKpdo25" version="22.1.5" type="github" pages="2">
   <diagram name="High Level Architecture" id="HNBkpJnv1Rv3T8vgbm3T">
     <mxGraphModel dx="3566" dy="2380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -230,7 +230,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="y55anTXChAuStdiiagD4-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="200" width="940" height="330" as="geometry" />
+          <mxGeometry x="90" y="250" width="940" height="210" as="geometry" />
         </mxCell>
         <mxCell id="y55anTXChAuStdiiagD4-2" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.http_protocol;fillColor=#5294CF;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="-39" y="300" width="83" height="96" as="geometry" />
@@ -254,7 +254,7 @@
           <mxGeometry x="480" y="318" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y55anTXChAuStdiiagD4-6" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.queue_generic" vertex="1" parent="1">
-          <mxGeometry x="470" y="110" width="140" height="42" as="geometry" />
+          <mxGeometry x="470" y="158" width="140" height="42" as="geometry" />
         </mxCell>
         <mxCell id="y55anTXChAuStdiiagD4-7" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="y55anTXChAuStdiiagD4-5" target="y55anTXChAuStdiiagD4-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -272,7 +272,7 @@
           <mxGeometry x="420" y="331" width="75" height="35" as="geometry" />
         </mxCell>
         <mxCell id="y55anTXChAuStdiiagD4-10" value="Message Queue" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="485" y="80" width="110" height="30" as="geometry" />
+          <mxGeometry x="485" y="128" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y55anTXChAuStdiiagD4-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="y55anTXChAuStdiiagD4-11" target="y55anTXChAuStdiiagD4-13">
           <mxGeometry relative="1" as="geometry" />
