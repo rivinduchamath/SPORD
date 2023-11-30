@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-30T06:19:55.733Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="MUVF627dByD836vaHOGC" version="22.1.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-30T08:42:13.113Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ExWa94zdlCSWkJgexiFd" version="22.1.5" type="github" pages="2">
   <diagram name="High Level Architecture" id="HNBkpJnv1Rv3T8vgbm3T">
-    <mxGraphModel dx="5103" dy="3247" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3243" dy="2308" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,7 +15,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TrZe-SQorLr1dVnYNotd-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;API Gateway&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="56" y="310" width="170" height="60" as="geometry" />
+          <mxGeometry x="44" y="310" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZXPitcS2j-TIpFaCFvjI-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="-200" y="303" width="60" height="110" as="geometry" />
@@ -30,7 +30,7 @@
           <mxGeometry x="247" y="-20" width="1170" height="740" as="geometry" />
         </mxCell>
         <mxCell id="ZXPitcS2j-TIpFaCFvjI-5" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Auth Service&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="490" width="160" height="90" as="geometry" />
+          <mxGeometry x="58" y="490" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ZXPitcS2j-TIpFaCFvjI-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0D1CA3;strokeWidth=2;" edge="1" parent="1" source="ZXPitcS2j-TIpFaCFvjI-6" target="ZXPitcS2j-TIpFaCFvjI-48">
           <mxGeometry relative="1" as="geometry">
@@ -220,6 +220,12 @@
         </mxCell>
         <mxCell id="ZXPitcS2j-TIpFaCFvjI-33" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/picons-social/57/github_rounded-128.png" vertex="1" parent="1">
           <mxGeometry x="1060" y="865" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tWnVkmb_nCmYzj1qMpgn-1" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF0000;strokeWidth=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TrZe-SQorLr1dVnYNotd-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-130" y="350" as="sourcePoint" />
+            <mxPoint x="248" y="340" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
