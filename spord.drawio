@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-30T04:01:22.602Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="-lrOHa9rORxh7oGCCB4X" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-30T04:02:16.985Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="lKx7NrR4TSH-Hq7qpgs3" version="22.1.5" type="github" pages="2">
   <diagram name="High Level Architecture" id="HNBkpJnv1Rv3T8vgbm3T">
     <mxGraphModel dx="3566" dy="2380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -221,6 +221,14 @@
         <mxCell id="ZXPitcS2j-TIpFaCFvjI-33" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/picons-social/57/github_rounded-128.png" vertex="1" parent="1">
           <mxGeometry x="1060" y="865" width="80" height="80" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Q0u_CT2_rC_u6qZR8vw3" name="Inside the Service">
+    <mxGraphModel dx="1222" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
