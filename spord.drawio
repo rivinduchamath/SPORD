@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-30T06:13:56.796Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="lZ8KFyWViAqEA55uiKZG" version="22.1.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-30T06:14:19.113Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="zXTAdSKnDvECVCQkVC2B" version="22.1.5" type="github" pages="2">
   <diagram name="High Level Architecture" id="HNBkpJnv1Rv3T8vgbm3T">
     <mxGraphModel dx="5103" dy="3247" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -410,10 +410,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mm1PEtL8vCruTFjKT0j8-4" value="1. Where is Micro Service One" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mm1PEtL8vCruTFjKT0j8-4" value="&lt;b&gt;1. Where is Micro Service One&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="1100" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mm1PEtL8vCruTFjKT0j8-5" value="2. Here Your Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mm1PEtL8vCruTFjKT0j8-5" value="&lt;b&gt;2. Here Your Service&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="279" y="1130" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mm1PEtL8vCruTFjKT0j8-6" value="Micro Service One&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -428,7 +428,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mm1PEtL8vCruTFjKT0j8-8" value="3. I want to do&amp;nbsp; this" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mm1PEtL8vCruTFjKT0j8-8" value="&lt;b&gt;3. I want to do&amp;nbsp; this&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="1280" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mm1PEtL8vCruTFjKT0j8-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.443;entryY=1.013;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#0000FF;" edge="1" parent="1" source="mm1PEtL8vCruTFjKT0j8-6" target="mm1PEtL8vCruTFjKT0j8-2">
