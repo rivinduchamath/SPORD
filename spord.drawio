@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-30T06:07:53.522Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="5-NveEBm-95ucpAhsK0S" version="22.1.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-30T06:08:11.369Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="1pxDtGUisa7QiBJrm8I9" version="22.1.5" type="github" pages="2">
   <diagram name="High Level Architecture" id="HNBkpJnv1Rv3T8vgbm3T">
     <mxGraphModel dx="3566" dy="2380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -390,6 +390,9 @@
         </mxCell>
         <mxCell id="Vq4Rci6RlZ5z40YKBUCb-29" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Discovery Server&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1015" y="570" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Vq4Rci6RlZ5z40YKBUCb-30" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.http_protocol;fillColor=#5294CF;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="904" y="657" width="41" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
